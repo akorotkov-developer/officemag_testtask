@@ -1,0 +1,13 @@
+.b-error {
+    color: #ff0000;
+}
+.b-coupon-generator {
+    display: flex;
+    justify-content: flex-start;
+}
+.b-getdiscount {
+    margin-right: 25px;
+}
+.btn-check-discountcode {
+    margin-top: 10px;
+}

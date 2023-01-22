@@ -1,0 +1,14 @@
+{
+    "name": "officemag/akorotkov",
+    "description": "Officemag composer file",
+    "authors": [
+        {
+            "name": "Akorotokov"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "OfficeMag\\": "classes/"
+        }
+    }
+}
